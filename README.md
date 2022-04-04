@@ -1,0 +1,2 @@
+# Basic-Song-Management-System
+When you start the application, it will read your songs from an external text files (songMan.txt), create a linked list and then populate this list with the songs stored in that file. This application will then provide some operations for you to manage your song. When you exit from the application, the application will overwrite the external file with the latest version of the list to include the latest songs in your application.
